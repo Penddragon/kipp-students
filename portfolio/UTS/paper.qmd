@@ -1,6 +1,6 @@
 ---
-title: "[Judul makalah MBTI, komunikasi efektif, dan PASK]"
-subtitle: "[Subjudul jika diperlukan]"
+title: "Analisis Pola Preferensi Bawaan dengan MBTI untuk Mencapai Komunikasi yang Efektif dan Bermakna"
+subtitle: "Makalah Pra-UTS - KIPP - II2100"
 author: "Athaillah Akmalu Ramadhan - 18225105"
 lang: id
 status: "Belum dimulai"
