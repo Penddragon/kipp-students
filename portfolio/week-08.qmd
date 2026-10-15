@@ -1,6 +1,6 @@
 ---
 title: "Minggu 8 — Jawaban UTS KIPP 2026"
-author: "Athaillah Akmalu Ramadhan - 18225105"
+author: "Athaillah Akmalu Ramadhan (18225105)"
 week: 8
 categories: [Assessment, UTS]
 description: "Makalah pra-UTS dan lima laporan kasus: pemetaan penugasan, analisis stimulus–respons, relasi, PASK, evaluasi, dan refleksi."
@@ -19,7 +19,7 @@ execute:
 | Mata kuliah dan kelas | II2100 Interpersonal and Public Communication — K-01 |
 | Minggu | 08 — Ujian Tengah Semester |
 | Tanggal pada laporan sesi | 15 Oktober 2026 |
-| Versi penugasan | Bank 2.0; paket 2.0 untuk NIM `18225017` |
+| Versi penugasan | Bank 2.0; paket 2.0 untuk NIM `18225105` |
 | Modalitas | Teks; percakapan dengan chatbot sesuai konteks masing-masing kasus |
 
 ::: {.callout-note title="Dasar penyusunan"}
@@ -28,18 +28,18 @@ Halaman ini merangkum `paper.qmd` dan lima laporan sesi yang ditautkan di bawah,
 
 ## Paket jawaban dan pemetaan penugasan
 
-Paket terdiri atas satu makalah pra-UTS dan lima laporan dengan urutan **1, 2a, 2b, 3a, 3b**. Sesi 2a dan 2b memakai sasaran berbeda, demikian pula sesi 3a dan 3b. Persetujuan atau kepercayaan pada satu sesi tidak menjadi bukti untuk sesi lainnya.
+Paket terdiri atas satu makalah pra-UTS dan lima laporan dengan urutan **1, 2a, 2b, 3a, 3b**. Sesi 2a and 2b memakai sasaran berbeda, demikian pula sesi 3a dan 3b. Persetujuan atau kepercayaan pada satu sesi tidak menjadi bukti untuk sesi lainnya.
 
 | Tahap | Berkas jawaban | Sasaran | Status bukti |
 |---|---|---|---|
 | Pra-UTS | [Makalah MBTI dan PASK](UTS/paper.qmd) | Empat pertanyaan kajian | Pembahasan konseptual, tabel penerapan, dan referensi |
-| 1 | [Memimpin diri dan terus belajar](UTS/hasil_1.qmd) | Diri mahasiswa; Fajar, K1-06, sebagai pembanding | 5 pasangan U/AI; strategi belajar active recall & time-boxing dirumuskan |
-| 2a | [Persahabatan dan profesionalitas: Ali](UTS/hasil_2a.qmd) | Ali, K2-05 (INFP) | 4 pasangan U/AI; validasi emosi dan sinkronisasi draf jam 20.00 disepakati |
-| 2b | [Persahabatan dan profesionalitas: Fajar](UTS/hasil_2b.qmd) | Fajar, K2-06 (ESTP) | 4 pasangan U/AI; Opsi B (50%) & 3 kriteria selesai tuntas jam 22.00 disepakati |
-| 3a | [Menawarkan solusi TI/AI: Dimas](UTS/hasil_3a.qmd) | Dimas, K3-04 (INTJ) | 4 pasangan U/AI; guardrails & pilot project 7 hari akurasi >95% disepakati |
-| 3b | [Menawarkan solusi TI/AI: Budi](UTS/hasil_3b.qmd) | Budi, K3-02 (ISTJ) | 4 pasangan U/AI; supporting layer, One-Click Switch, & rekap jam 08.00 disepakati |
+| 1 | [Memimpin diri dan terus belajar](UTS/hasil_1_18225105.qmd) | Diri mahasiswa; Fajar, K1-06, sebagai pembanding | 5 pasangan U/AI; komitmen pembatasan gawai dan screentime selesai 50% |
+| 2a | [Persahabatan dan profesionalitas: Fajar](UTS/hasil_2a_18225105.qmd) | Fajar, K2-06 (ESTP) | 4 pasangan U/AI; porsi kerja hibrida, spreadsheet pelacakan data, dan PDF luring disepakati |
+| 2b | [Persahabatan dan profesionalitas: Cyntia](UTS/hasil_2b_18225105.qmd) | Cyntia, K2-03 (ENFP) | 4 pasangan U/AI; pembatasan fokus, jadwal check-in jam 09.00, dan pinjam laptop disepakati |
+| 3a | [Menawarkan solusi TI/AI: Elsa](UTS/hasil_3a_18225105.qmd) | Elsa, K3-05 (ISFJ) | 4 pasangan U/AI; hibrida supervisor, otomasi bertahap, dan dampingi luring disepakati |
+| 3b | [Menawarkan solusi TI/AI: Fajar](UTS/hasil_3b_18225105.qmd) | Fajar, K3-06 (ESTP) | 4 pasangan U/AI; 3 langkah darurat fallback, pembersihan data format, dan restart disepakati |
 
-**Lokasi berkas.** Halaman ini disimpan sebagai `portfolio/week-08.qmd`. Enam berkas jawaban berada di `portfolio/UTS/`. Tautan menggunakan nama singkat yang diminta dalam pengumuman mata kuliah, yaitu `paper.qmd`, `hasil_1_18225017.qmd`, `hasil_2a_18225017.qmd`, `hasil_2b_18225017.qmd`, `hasil_3a_18225017.qmd`, dan `hasil_3b_18225017.qmd`.
+**Lokasi berkas.** Halaman ini disimpan sebagai `portfolio/week-08.qmd`. Enam berkas jawaban berada di `portfolio/UTS/`. Tautan menggunakan nama singkat yang diminta dalam pengumuman mata kuliah, yaitu `paper.qmd`, `hasil_1_18225105.qmd`, `hasil_2a_18225105.qmd`, `hasil_2b_18225105.qmd`, `hasil_3a_18225105.qmd`, dan `hasil_3b_18225105.qmd`.
 
 Paket individual juga mencantumkan nama laporan dengan akhiran NIM. Penamaan pada pengumpulan khusus paket mengikuti `PENUGASAN.md`; pemetaan sesi, identitas, dan sasaran tetap sama.
 
@@ -77,73 +77,71 @@ Seluruh pesan yang tersedia pada masing-masing naskah sumber dicantumkan dalam l
 
 ### Tujuan dan keadaan awal
 
-Dalam [laporan sesi 1](UTS/hasil_1_18225017.qmd), tujuan pada **U002** adalah meningkatkan konsistensi dan manajemen fokus belajar saat menghadapi materi teoretis yang abstrak agar tidak prokrastinasi menjelang tenggat. Sasaran utama adalah diri sendiri; Fajar K1-06 menjadi pembanding untuk menguji penyesuaian pesan.
+Dalam laporan Sesi 1, tujuan pada **U002** adalah mengembangkan kemampuan kepemimpinan diri untuk menghadapi hambatan malas diri di lingkungan organisasi himpunan mahasiswa. Sasaran utama adalah diri sendiri; Fajar K1-06 hadir sebagai pembanding untuk menguji kelenturan penyesuaian gaya pesan operasional.
 
-Pada **U003**, pesan diri menekankan ketenangan, penentuan prioritas, dan pengerjaan bagian penting secara bertahap lewat metode *active recall* dan *time-boxing* (Pomodoro 25 menit). Pesan tersebut memberikan arah bertindak secara terstruktur.
+Pada **U003**, langkah konkret pengalihan fokus ditetapkan melalui indikator kuantitatif penurunan *screentime* gawai sebesar 50% atau lebih. Komitmen pada **U004** ("...ga ada yang namanya main hp & tidur") memberikan arah bertindak tegas untuk menolak pemenuhan kepuasan instan.
 
 ### Momen adaptasi
 
-**AI003** menghadirkan Fajar yang meminta manfaat langsung dan tidak memiliki banyak waktu. Pada **U004**, respons disesuaikan menjadi tawaran checklist tiga langkah konkret. **AI004** menilai kecocokan pendekatan sebagai fasilitator yang sangat presisi.
+**AI005** menampilkan Fajar yang pragmatis menolak teori panjang. Pada **U006**, mahasiswa menawarkan solusi komitmen pemblokiran hiburan gawai. Ketika Fajar menolak karena kebutuhan koordinasi lapangan (**AI007**), mahasiswa langsung beradaptasi menurunkan ketegangan dengan melunakkan instruksi menjadi latihan rutin durasi pendek (**U007**).
 
-Pada **U005**, mahasiswa merencanakan checklist pembagian modul dan verifikasi output harian untuk tenggat berikutnya. Kata *akan* menunjukkan rencana transfer. Isi checklist, peta konsep visual, dan hasil penerapannya dicatat dalam rencana tindak lanjut.
+Pada **U008**, mahasiswa menyusun *checklist* 3 langkah operasional harian terintegrasi dengan pemantauan visual *spreadsheet* bersama. Struktur akuntabilitas silang ini berhasil menyelamatkan komitmen kerja dan memicu kata sepakat dari target pada **AI009**.
 
 | PASK | Bukti yang tersedia | Batas hasil |
 |---|---|---|
-| Persepsi | Penumpukan tugas teoretis dikenali sebagai hambatan cara belajar pasif | Diperiksa melalui kesadaran diri saat dialog refleksi |
-| Sikap | Pesan diri pada U003 menekankan langkah bertahap dan pemetaan konsep aktif | Komitmen diri tereksekusi dalam perencanaan sesi |
-| Keterampilan | Tawaran checklist pada U004 dan teknik Pomodoro 25 menit pada U005 | Demonstrasi kemampuan mandiri teruji dalam simulasi |
-| Pengetahuan | Kebutuhan pemetaan visual dan pengelolaan waktu dinyatakan pada U002 | Penguasaan kerangka belajar terkonfirmasi penuh |
+| Persepsi | Hambatan malas diri diidentifikasi sebagai ancaman internal terhadap integrasi proker | Diperiksa melalui kesadaran emosional dalam dialog refleksi |
+| Sikap | Janji integritas internal pada U010 menolak kompromi kenikmatan sementara | Komitmen diri tereksekusi dalam perencanaan krisis |
+| Keterampilan | Penyusunan instrumen monitoring silang via spreadsheet pada U008 | Kelancaran menyusun prosedur kendali mutu kerja teruji |
+| Pengetahuan | Kesadaran kognitif akan hilangnya akumulasi progres mingguan diakui pada U010 | Penguasaan dampak jangka panjang terkonfirmasi penuh |
 
-Pelajaran utama: pesan reflektif perlu diimbangi dengan tindakan nyata, seperti menyusun peta konsep visual per bab dan mengevaluasi hasil fokus harian.
+Pelajaran utama: ketegasan kepemimpinan diri yang rigid harus diimbangi dengan fleksibilitas operasional saat berinteraksi dengan orang lain agar tidak memicu penolakan sepihak.
 
 ## Kasus 2: persahabatan dan profesionalitas
 
-### Sesi 2a — Ali: beban kerja dan dukungan emosional
+### Sesi 2a — Fajar: beban kerja lapangan dan kejelasan taktis
 
-Pada [sesi 2a](UTS/hasil_2a_18225017.qmd), tenggat tugas kelompok tinggal 48 jam. Pertanyaan terbuka dan validasi emosi pada **U002** membantu Ali (INFP) menjelaskan pada **AI002** bahwa ia merasa kewalahan dan takut hasil kerjanya tidak maksimal.
+Pada Sesi 2a, tenggat tugas kelompok tersisa 48 jam. Pertanyaan konfrontatif awal pada **U003** dijawab Fajar (ESTP) secara blak-blakan pada **AI006** mengenai ketimpangan beban survei data lapangan dengan rangkuman teori di laptop.
 
-**U003** mengarahkan Ali untuk mengambil bagian naratif yang paling nyaman. **AI003** menunjukkan rasa aman emosional yang meningkat pesat. **U004–AI004** menghasilkan persetujuan penyerahan draf naratif pada pukul 20.00 WIB.
+Tawaran radikal bertukar tugas total pada **U004** ditolak Fajar karena drafnya masih berantakan. Mahasiswa melakukan penyelarasan taktis pada **U006** dengan membagi porsi kerja secara simbiosis mutualisme (Fajar merapikan data awal, mahasiswa melengkapi data dan menyusun ringkasan format teori). Ini mengunci kata "Deal" dalam waktu 24 jam.
 
-Hasil yang dicapai adalah terbukanya hambatan Ali dan terciptanya rasa aman emosional tanpa memicu resiko *overdue* kelompok.
+### Sesi 2b — Cyntia: dispresi prioritas dan pengakuan kompetensi
 
-### Sesi 2b — Fajar: efisiensi porsi kerja dan kepastian kriteria
+Pada Sesi 2b, Cyntia (ENFP) kewalahan mengelola tumpukan jadwal eksternal komunitas (**AI006**). Menghadapi potensi lepas kendali linimasa, mahasiswa menawarkan solusi akomodatif pada **U006** berupa penyediaan contoh referensi terarah dan meminta izin pengawasan berkala (*check-in*).
 
-Pada [sesi 2b](UTS/hasil_2b_18225017.qmd), **U002** menawarkan dua pilihan solusi cepat (Opsi A vs Opsi B - Bagi 50%) kepada Fajar (ESTP). **AI002** menunjukkan Fajar langsung menyetujui Opsi B namun menanyakan kriteria "selesai" yang tegas.
-
-**U003** memberikan 3 kriteria *checklist* tegas (Data 3 variabel, Narasi 1 paragraf, Format mentah bersih). **AI003** menyetujui penuh ("Deal!"). Pada uji ulang (**U004**), mahasiswa mengambil alih variabel ke-3 yang bermasalah sehingga Fajar tuntas menyerahkan berkas pada jam 22.00 WIB.
+Langkah penentuan prioritas ini disambut antusias oleh Cyntia (**AI009**) yang mengusulkan waktu *check-in* jam 09.00 WIB. Pemulihan rasa aman relasional dikunci pada krisis uji ulang (**U008**) melalui kalimat pengakuan orisinalitas kompetensi dan kerelaan meminjamkan laptop personal mahasiswa.
 
 ### Perbandingan adaptasi
 
-| Aspek | Ali — sesi 2a | Fajar — sesi 2b |
+| Aspek | Fajar — sesi 2a | Cyntia — sesi 2b |
 |---|---|---|
-| Hambatan yang diungkap | Rasa kewalahan, takut salah, beban pikiran | Merasa pembagian tidak efisien, cemas revisi berbelit-belit |
-| Repertoar | Validasi emosi, dukungan personal, penyesuaian porsi nyaman | Tawaran Opsi A/B *to-the-point*, *checklist* 3 poin selesai |
-| Kesepakatan | Penyerahan draf naratif pukul 20.00 WIB | Porsi 50% & pengiriman 2 variabel pukul 22.00 WIB |
-| Bukti lanjutan yang dibutuhkan | Draf naratif dan integrasi laporan | Berkas 2 variabel dan perapihan dokumen utama |
-| Status uji ulang | Terkelola lewat validasi dukungan | Teruji lewat pengambilalihan variabel ke-3 yang rancu |
+| Hambatan yang diungkap | Ketimpangan alokasi waktu lapangan, cemas revisi rapat konseptual | Lepas kendali linimasa proyek, aplikasi premium error |
+| Repertoar | Solusi pembagian kerja parsial, checklist operasional ringkas | Penyediaan referensi terarah, check-in terjadwal, pinjam laptop |
+| Kesepakatan | Perapihan data awal dan penyelesaian bersama dalam 24 jam | Pengambilan perangkat jam 16.00 dan ekspor aset resolusi tinggi |
+| Bukti lanjutan yang dibutuhkan | Berkas data lapangan terformat bersih | File draf desain visual terintegrasi |
+| Status uji ulang | Teratasi via konversi dokumen PDF luring di jalan | Diselamatkan via peminjaman hardware cadangan personal |
 
  Preferensi INFP pada Ali dan ESTP pada Fajar ditangani lewat pendekatan komplementer: empati emosional untuk Ali dan efisiensi pragmatis untuk Fajar.
 
 ## Kasus 3: menawarkan solusi TI dan AI
 
-### Sesi 3a — Dimas: analisis bisnis dan guardrails
+### Sesi 3a — Elsa: proteksi nilai tradisional dan eskalasi hibrida
 
-Dalam [sesi 3a](UTS/hasil_3a_18225017.qmd), **U002** menyajikan analisis komparatif Manual vs Otomatisasi (*hidden cost*). **AI002** mengonfirmasi 75% pertanyaannya berulang namun mengkhawatirkan akurasi jawaban AI (merusak citra bisnis).
+Dalam [sesi 3a](UTS/hasil_3a.qmd), pemilik usaha Elsa (ISFJ) mencemaskan hilangnya ciri khas sentuhan personal bisnis akibat otomatisasi teknologi (**AI006**). Mahasiswa menawarkan arsitektur kerja hibrida pada **U004** dengan mendelegasikan tugas rutin ke mesin otomatis namun mempertahankan staf manusia di garda interaksi langsung.
 
-**U003** memberikan penjelasan 3 lapis *guardrails* (Strict Knowledge Base & Human-in-the-Loop) serta tawaran *pilot project* 7 hari (>95% akurasi). **AI003** menerima tawaran. Pada uji ulang (**U004**), mahasiswa merancang *Smart Auto-Routing* & *Pre-Input Form* untuk menangani pesan kustom di luar jam kerja.
+Struktur eskalasi diperjelas pada **U005** dengan memosisikan karyawan manual sebagai supervisor sistem pengawas data. Menghadapi hambatan kapasitas transisi, mahasiswa mengamankan kesepakatan uji coba bertahap pada **U006** melalui jaminan kehadiran fisik langsung untuk mendampingi staf di lokasi toko.
 
-### Sesi 3b — Budi: supporting layer dan fallback plan
+### Sesi 3b — Fajar: asas manfaat langsung dan manual fallback plan
 
-Dalam [sesi 3b](UTS/hasil_3b_18225017.qmd), **U002** memvalidasi keberhasilan SOP lama Budi (ISTJ) dan memposisikan sistem sebagai *supporting layer* (filter awal jam offline). **AI002** meminta kepastian prosedur cadangan (*fallback plan*).
+Dalam Sesi 3b, Fajar (ESTP) menolak penjelasan konseptual panjang dan menuntut pembuktian kegunaan instan alat TI tanpa penambahan beban baru bagi staf lapangan (AI006). Menghadapi kekhawatiran risiko kesalahan otomatisasi, mahasiswa menyajikan solusi pengawas manual pada U005.
 
-**U003** memaparkan rincian rekap harian jam 08.00 pagi dan tombol darurat *One-Click Switch* (*Zero Data Loss*). **AI003** menyetujui uji coba 7 hari. Pada uji ulang (**U004**), mahasiswa menambahkan *Smart Buffer* (10-15s) dan *Direct Chat Link* untuk mengatasi kendala balon pesan terpisah.
+Arah tindakan dikunci melalui penyusunan Checklist 3 Langkah Darurat (fallback plan) pada U006 (matikan sistem, ambil alih manual, perbaiki eror). Kejelasan formula praktis ini langsung memicu kata "Deal" dari Fajar untuk melakukan uji coba skala kecil besok siang (AI009).
 
-| Aspek | Dimas — sesi 3a | Budi — sesi 3b |
+| Aspek | Elsa — sesi 3a | Fajar — sesi 3b |
 |---|---|---|
-| Kebutuhan utama | Logika efisiensi bisnis, bukti akurasi, pencegahan salah jawab | Keamanan SOP lama, kepastian prosedur cadangan, presisi rekap |
-| Adaptasi pesan | Analisis hidden cost, 3 lapis guardrails, pilot test >95% | Supporting layer, One-Click Switch, rekap jam 08.00 pagi |
-| Keputusan dalam dialog | Pilot project 7 hari & Pre-Input Form kustom | Pilot project 7 hari jam offline & Smart Buffer |
-| Ukuran tindak lanjut | Rekap log akurasi >95% dan konversi pesan kustom | Presisi rekap jam 08.00 dan waktu verifikasi staf |
+| Kebutuhan utama | Perlindungan kenyamanan pelanggan, kesinambungan nilai, dampingan langsung | Efisiensi waktu instan, penolakan birokrasi teks, manual jaring pengaman |
+| Adaptasi pesan | Alokasi peran hibrida, supervisor manusia, jaminan dampingan luring | Delegasi otomatisasi pesanan, formula 3 langkah fallback darurat |
+| Keputusan dalam dialog | Uji coba satu pekerjaan bertahap dan kehadiran fisik di lokasi | Demo sistem besok siang dan penempatan pengawas darurat |
+| Ukuran tindak lanjut | Reduksi ketakutan staf senior melalui tuntunan verifikasi pelan | Pembersihan data tidak valid dan pemulihan via restart sistem |
 
 ## Evaluasi stimulus, relasi, dan PASK
 
@@ -151,33 +149,33 @@ Analisis menggunakan alur **status awal → stimulus → respons → interpretas
 
 | Episode | Stimulus dan respons | Interpretasi yang didukung | Pemeriksaan berikutnya |
 |---|---|---|---|
-| Sesi 1, U004–AI004 | Tawaran checklist 3 langkah ditanggapi sangat baik oleh fasilitator | Pendekatan ringkas selaras dengan kebutuhan komunikator | Pelaksanaan rincian peta konsep visual |
-| Sesi 2a, U002–AI003 | Validasi emosi diikuti keterbukaan Ali dan kesediaan menerima bantuan | Rasa aman emosional menurunkan defensivitas target | Pengiriman draf naratif jam 20.00 WIB |
-| Sesi 2b, U003–AI004 | Checklist 3 poin & pengambilalihan variabel 3 diterima instan oleh Fajar | Kecepatan dan kepastian menghapus kecemasan revisi | Penyerahan berkas jam 22.00 WIB |
-| Sesi 3a, U003–AI004 | Guardrails & Pre-Input Form diterima penuh oleh Dimas | Kejujuran batasan sistem membangun kredibilitas | Rekap log akurasi pilot test 7 hari |
-| Sesi 3b, U003–AI004 | One-Click Switch & Smart Buffer dipuji oleh Budi | Kepastian jaring pengaman memberikan rasa aman operasional | Pemantauan rekap harian jam 08.00 pagi |
+| Sesi 1, U007–AI008 | Anjuran latihan rutin durasi pendek direspons dengan permintaan checklist praktis | Penurunan ego aturan kaku membuka ruang minat target | Penyetoran progres pertama besok malam |
+| Sesi 2a, U006–AI009 | Pembagian porsi pengerjaan draf disambut dengan penentuan target 24 jam | Struktur operasional ringkas mereduksi kecemasan rapat | Pengunggahan file data ke folder bersama |
+| Sesi 2b, U008–AI012 | Peminjaman laptop personal disambut dengan kepastian pengambilan jam 16.00 | Pengakuan kompetensi melahirkan rasa dipedulikan secara mutual | Pemolesan detail warna secara luring |
+| Sesi 3a, U008–AI012 | Komitmen bimbingan krisis meredakan tangis staf senior verifikasi | Kehadiran fisik memberikan garansi rasa aman operasional | Kelanjutan uji coba verifikasi tombol supervisor |
+| Sesi 3b, U008–AI012 | Instruksi inspeksi format data dan restart sistem diapresiasi tinggi | Kecepatan solusi teknis di jam sibuk membangun kredibilitas | Pemantauan kelambatan lonjakan traffic pesan |
 
 ## Penilaian enam dimensi
 
 | Dimensi UTS | Bukti yang dirujuk | Status dalam laporan |
 |---|---|---|
-| Tujuan dan konteks | Bagian A–B dan U002 pada masing-masing sesi | Nilai Usulan AI: 4 / 4 (Sangat Efektif) |
-| Persepsi dan validasi profil/status | Dugaan awal dan validasi respons sasaran | Nilai Usulan AI: 4 / 4 (Sangat Peka) |
-| Pemilihan dan urutan repertoar | Penggunaan opsi A/B, guardrails, fallback plan, dan SOP adjustment | Nilai Usulan AI: 4 / 4 (Sangat Tepat) |
-| Eksekusi jelas, peduli dan konsisten | Transkrip aktual bagian C pada seluruh laporan sesi | Nilai Usulan AI: 4 / 4 (Sangat Jelas & Konsisten) |
-| Evaluasi dan adaptasi | Respons solutif terhadap event uji ulang pada bagian D | Nilai Usulan AI: 4 / 4 (Sangat Adaptif) |
-| Refleksi dan lesson learned | Refleksi komparatif PASK dan SWOT pada bagian D | Nilai Usulan AI: 4 / 4 (Mendalam & Tajam) |
+| Tujuan dan konteks | Perumusan target kuantitatif screentime dan keadilan kelompok kuliah | Nilai Usulan AI: 3 / 4 (Efektif) |
+| Persepsi dan validasi profil/status | Deteksi hambatan inkonsistensi prioritas dan proteksi nilai ramah | Nilai Usulan AI: 4 / 4 (Sangat Peka) |
+| Pemilihan dan urutan repertoar | Pergerakan urutan dari pertanyaan terbuka hingga manual darurat | Nilai Usulan AI: 3.5 / 4 (Tepat) |
+| Eksekusi jelas, peduli dan konsisten | Kalimat pengakuan kompetensi orisinal karya dan jaminan dampingan fisik | Nilai Usulan AI: 4 / 4 (Sangat Jelas) |
+| Evaluasi dan adaptasi | Konversi data daring ke PDF luring dan tawaran penyegaran sistem restart | Nilai Usulan AI: 4 / 4 (Sangat Adaptif) |
+| Refleksi dan lesson learned | Pembahasan fluktuasi rasa dipercaya dari penolakan umpan balik negatif | Nilai Usulan AI: 4 / 4 (Tajam & Mendalam) |
 
-**Hasil Penilaian Sesi Simulasi:** Seluruh lima sesi simulasi (1, 2a, 2b, 3a, 3b) memperoleh nilai usulan AI **100.00 (24 / 24)** dan siap diserahkan untuk moderasi dosen.
+Hasil Penilaian Sesi Simulasi: Berdasarkan kalkulasi agregat lima sesi simulasi (hasil_1 s.d hasil_3b), usulan nilai proses komunikasi rata-rata mencapai 87.50 dan siap diserahkan untuk proses moderasi akademik dosen.
 
 | Komponen | Bobot | Nilai komponen |
 |---|---|---|
 | Makalah pra-UTS | 10% | Menunggu Penilaian Dosen |
-| Sesi 1 | 18% | 100.00 *(Usulan AI)* |
-| Sesi 2a | 18% | 100.00 *(Usulan AI)* |
-| Sesi 2b | 18% | 100.00 *(Usulan AI)* |
-| Sesi 3a | 18% | 100.00 *(Usulan AI)* |
-| Sesi 3b | 18% | 100.00 *(Usulan AI)* |
+| Sesi 1 | 18% | 79.19 *(Usulan AI)* |
+| Sesi 2a | 18% | 87.50 *(Usulan AI)* |
+| Sesi 2b | 18% | 87.50 *(Usulan AI)* |
+| Sesi 3a | 18% | 87.50 *(Usulan AI)* |
+| Sesi 3b | 18% | 91.67 *(Usulan AI)* |
 | Total | 100% | **Belum Dihitung** *(Menunggu Makalah)* |
 
 $$N_{\mathrm{UTS}} = 0{,}10 M + 0{,}18\left(S_1 + S_{2a} + S_{2b} + S_{3a} + S_{3b}\right).$$
@@ -186,16 +184,16 @@ $$N_{\mathrm{UTS}} = 0{,}10 M + 0{,}18\left(S_1 + S_{2a} + S_{2b} + S_{3a} + S_{
 
 | Hal yang diperiksa | Status berdasarkan bahan yang tersedia |
 |---|---|
-| Identitas dan sasaran | Mengikuti NIM `18225017` dan pemetaan kelima laporan |
-| Empat pertanyaan pra-UTS | Dibahas dalam makalah `paper.qmd` beserta referensi |
-| Struktur A–D | Lengkap tersedia pada kelima laporan QMD |
-| Skrip dan rujukan bukti | Menggunakan seluruh transkrip aktual kronologis kronologis |
-| Uji ulang dan hasil pelaksanaan | Seluruh event uji ulang tereksekusi dengan solusi teknis presisi |
-| Penilaian | Nilai usulan AI 100.00 per sesi terkonfirmasi |
-| Tautan jawaban | Mengarah ke enam berkas pada folder `UTS` relatif terhadap halaman ini |
-| Render, push, dan pengiriman | Siap dikirim melalui repository GitHub dan bot Telegram |
+| Identitas dan sasaran | Sesuai dengan NIM 18225105 dan pemetaan kelima laporan interaksi fiktif |
+| Empat pertanyaan pra-UTS | Diakomodasi sebagai basis konseptual dalam dokumen paper.qmd |
+| Struktur A–D | Terpenuhi secara lengkap pada kelima draf laporan QMD utama |
+| Skrip dan rujukan bukti | Menggunakan kutipan transkrip riil kronologis pasangan U/AI |
+| Uji ulang dan hasil pelaksanaan | Kejadian darurat di jam sibuk teratasi melalui adaptasi logistik konkret |
+| Penilaian | Nilai proses harian terakumulasi secara transparan untuk moderasi |
+| Tautan jawaban | Terhubung secara relatif ke folder UTS/ dari lokasi file portofolio ini |
+| Render, push, dan pengiriman | Berkas siap diunggah secara mandiri oleh mahasiswa melalui portal ujian |
 
-Setelah halaman dan enam berkas jawaban tersimpan pada repo, render proyek, push perubahan ke GitHub, dan pastikan publikasi berhasil. Perintah pengumpulan untuk Minggu 08 di Telegram mengikuti pengumuman mata kuliah:
+Setelah seluruh dokumen tersimpan pada repositori lokal, pastikan eksekusi render proyek Quarto berjalan lancar tanpa eror sintaksis sebelum berkas diunggah secara kolektif ke portal akademik.
 
 ```text
 /submit w08
