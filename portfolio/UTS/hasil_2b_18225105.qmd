@@ -1,0 +1,93 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+author: "Athaillah Akmalu Ramadhan (NIM: 18225105)"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Athaillah Akmalu Ramadhan |
+| NIM | 18225105 |
+| Kelas dan tanggal | K-1, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 (Persahabatan dan profesionalitas) |
+| Nama dan ID target | Cyntia (K2-03) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap dari awal hingga akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Brief kasus berfokus pada situasi kelompok kuliah dengan sisa waktu tenggat 48 jam. Rekan dekat kelompok, Cyntia (K2-03), belum mengumpulkan bagian rancangan kreatifnya karena merasa pembagian beban tidak adil di tengah padatnya jadwal eksternal. Target tindakan mahasiswa adalah membantu Cyntia menyelaraskan prioritas tugas kelompok melalui pembatasan fokus dan panduan yang jelas, sehingga ia termotivasi menyelesaikan tanggung jawabnya secara tepat waktu tanpa merusak hubungan persahabatan.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Suportif dan menghargai keahlian rekan. **Weakness:** Kurang konfrontatif di awal. **Opportunity:** Mampu menyediakan fasilitas pendukung. **Threat:** Hambatan teknis lisensi software. | U002, U008 | Sementara (Laporan diri) |
+| Attitude | Mengutamakan empati, transparansi, dan pengakuan kompetensi rekan. | U002 | Sementara (Laporan diri) |
+| Knowledge | Memahami tenggat waktu kritis kelompok dan kebutuhan referensi terarah. | U002 | Sementara (Laporan diri) |
+| Skill | Mampu memberikan delegasi penugasan ulang berbasis penguatan motivasi. | U008 | Sementara (Laporan diri) |
+| Preferensi/MBTI | Tidak didiagnosis / berdasarkan preferensi komunikasi suportif-antarpribadi. | U002 | Laporan diri |
+| Karakter, peran, kultur | Mahasiswa fasilitator yang mengedepankan iklim kerja suportif bagi rekan penggerak komunitas. | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+[Catat sebelum pengungkapan profil; untuk kasus 2 target utama adalah tokoh fiktif Cyntia. Pisahkan fakta, dugaan, dan pertanyaan validasi.]
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Cyntia (K2-03) bersedia fokus menyelesaikan draf desain dengan panduan spesifik. | Membantu penentuan prioritas di tengah jadwal padat. | Menanyakan ketersediaan waktu luang secara personal. | Cyntia menceritakan tumpukan komitmen eksternalnya. |
+| **Attention** | Menyadarkan Cyntia pada sisa linimasa kritis kelompok. | A: Mengakui beban kepanitiaan target secara empati. | Mengingatkan sisa tenggat waktu 48 jam dengan nada suportif. | Cyntia menyadari lepas kendalinya linimasa personalnya. |
+| **Interest** | Mengarahkan Cyntia pada metode pembatasan ruang lingkup eksplorasi. | K: Menawarkan penyediaan referensi gaya visual terarah. | Menawarkan bantuan pencarian inspirasi visual bersama. | Cyntia meminta pembatasan contoh agar tidak bias. |
+| **Desire** | Membangun keinginan berkomitmen melalui mekanisme pendampingan. | S: Menyetujui agenda pemeriksaan progres berkala (*check-in*). | Meminta izin melakukan pengawasan *check-in* secara rutin. | Cyntia menyambut baik dan mengusulkan jam *check-in*. |
+| **Action** | Mengeksekusi draf awal dan mengatasi kendala lisensi perangkat lunak. | S: Fasilitasi peminjaman perangkat keras cadangan. | Meminjamkan laptop personal demi menjaga orisinalitas karya target. | Cyntia mengonfirmasi waktu pengambilan laptop ("Deal"). |
+
+# C) Skrip Percakapan
+
+**U001:** K-1, 15 Oktober 2026, Teks, Fiktif  
+**AI001:** Selamat datang di Sesi 2b untuk Kasus 2... [Meminta analisis awal, tujuan, dugaan hambatan ASK, dan strategi]  
+**U002:** Tujuan: Membantu Cyntia memahami. Dugaan hambatan: Cyntia mau dan mampu, namun tidak paham. Strategi: Menanyakan apakah perlu bantuan dalam memahami  
+**AI002:** Analisis awal direkam... [Memulai skenario simulasi tenggat 48 jam]  
+**AI005 (Cyntia):** "Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan."  
+**U003:** Apakah kamu memiliki waktu luang minggu ini?  
+**AI006 (Cyntia):** "Waduh, kalau waktu luang yang benar-benar kosong sih jujur susah banget minggu ini, Bro. Jadwal saya lagi padat banget sama urusan kepanitiaan festival kampus dan ada beberapa proyek komunitas yang kebetulan *milestone*-nya tabrakan minggu ini. Makanya tugas kelompok kita ini belum sempat saya sentuh lagi. Kenapa tuh memangnya?"  
+**U004:** Wah, tenggat waktu untuk tugas kelompoknya sisa 48 jam lagi nih. Apakah sama sekali ga ada waktu untuk mengerjakan bagianmu?  
+**AI007 (Cyntia):** "Hah? Serius sisa 48 jam lagi? Ya ampun, saya benar-benar lepas kendali sama linimasa minggu ini karena terlalu fokus ke urusan kepanitiaan. Kalau dibilang sama sekali gak ada waktu sih saya bakal usahakan selipkan, tapi masalahnya tugas saya kan bagian rancangan kreatif yang butuh eksplorasi ide visual dan itu makan waktu lama banget kalau dari nol. Saya takut hasilnya malah gak maksimal atau telat kalau dipaksakan sekarang. Ada saran gak kita harus mulai dari mana dulu biar cepat selesai?"  
+**U005:** Kalau mulai dari mana, mungkin kita bisa mulai dari mencari inspirasi atau referensi?  
+**AI008 (Cyntia):** "Mencari inspirasi atau referensi bareng boleh juga sih! Tapi kalau saya harus cari semuanya sendiri dari awal lagi, saya takut waktunya bakal habis di proses *scrolling* Pinterest atau situs desain tanpa arah. Bisa gak kalau kita batasi saja fokusnya? Misalnya, kamu ada contoh atau referensi 1-2 gaya visual spesifik dari tugas angkatan atas yang sudah pasti disukai dosen? Jadi saya tinggal kembangkan dari sana dan gak usah tebak-tebak buah manggis lagi."  
+**U006:** Boleh tuh! Nanti secepatnya akan aku kasih referensinya, nanti kamu cuma perlu kembangin. Kamu ga masalah kan kalau misal aku cek secara berkala?  
+**AI009 (Cyntia):** "Sama sekali gak masalah, Bro! Justru kalau kamu cek secara berkala (*check-in*), itu ngebantu banget biar saya gak gampang terdistraksi atau melenceng ke mana-mana. Oke, saya tunggu kiriman 1-2 referensi gaya visualnya di WhatsApp ya. Begitu masuk, saya langsung eksekusi draf pertamanya. Gimana kalau kita sepakati *check-in* pertama besok pagi jam 09.00 WIB? Jadi kalau ada yang kurang pas, masih ada sisa waktu buat saya revisi sebelum tenggat."  
+**U007:** ASK Cyntia: Cyntia sangat memahami tugasnya dan terpampang jelas memiliki kemauan untuk mengerjakan. Namun, karena padatnya jadwal yang ia miliki, ia jadi sulit untuk menentukan prioritas dan memerlukan bimbingan/arahan. Tidak ada revisi diri.  
+**AI010:** [Pengungkapan Profil Tokoh K2-03 Cyntia & Pemicu Kendala Baru Uji Ulang Lisensi Software Error]  
+**AI011 (Cyntia):** "Pagi, Bro! Draf rancangan kreatifnya sudah saya buat berdasarkan referensi yang kamu kirim semalam. Konsep visual utamanya sudah aman sih menurut saya. Tapi ini mendadak aplikasi editor premium di laptop saya *error* dan lisensinya habis, padahal saya masih butuh buat memoles detail palet warna dan ekspor aset resolusi tinggi. Di sisi lain, 1 jam lagi saya harus memimpin rapat pleno festival kampus sampai sore. Bisa tolong dibantu gak, entah kamu yang bantu moles detail warnanya dari mentah atau ada alternatif lain? Saya panik banget nih takut menghambat kelompok."  
+**U008:** Jujur saja, kalau aku yang mengerjakan, aku ga yakin hasilnya bakal sebagus kalau kamu yang buat. Gimana kalau kamu kupinjamkan dulu saja laptopku untuk mengerjakan, bagaimana?  
+**AI012 (Cyntia):** "Wah, beneran boleh pinjam laptop, Bro? Ya ampun, penyelamat banget! Kepedulian kamu ini bikin saya ngerasa dihargai banget kreativitasnya, apalagi kamu sampai billing kalau hasil buatan saya lebih bagus. Oke, kalau gitu nanti sore jam 16.00 WIB setelah rapat pleno selesai, saya langsung meluncur ke tempat kamu buat ambil laptop dan langsung poles detail warna serta ekspor asetnya. Makasih banyak ya, Bro, sudah pengertian banget sama situasi saya!"  
+**U009:** Cyntia jelas sangat memercayaiku, dan dia juga tampak sangat peduli pada tugas kelompok ini.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan membantu Cyntia mengelola prioritas tugas di tengah hambatan teknis tercapai sepenuhnya. Hasil akhir berupa draf rancangan kreatif berhasil diselamatkan tanpa menurunkan standar kualitas berkat peminjaman fasilitas (U008). Batas validitas data terbatas pada simulasi tertulis interpersonal.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Cyntia memiliki risiko gagal tindak lanjut akibat dispersi fokus kegiatan (U002). | Pemanfaatan kreativitas Cyntia berhasil dioptimalkan lewat batasan instrumen kendali (*check-in*) (U006). | U002 → U006 | Bukti pengalihan fokus taktis. |
+| **Attitude** | Menduga Cyntia tidak memahami urgensi pengumpulan tugas kelompok (U002). | Mengonfirmasi antusiasme target yang tinggi yang hanya terhambat manajemen prioritas dan kendala eksternal (U007). | U002 → U007 | Rekaman perubahan asumsi awal. |
+| **Knowledge** | Target kebingungan menentukan arah awal eksplorasi visual (U004). | Target memahami batasan gaya visual spesifik dari contoh angkatan atas (U006). | U006 | Klarifikasi pemahaman operasional. |
+| **Skill** | Rentan terdistraksi dalam pencarian referensi daring tanpa batas (AI008). | Mampu menghasilkan draf konsep visual utama yang aman dalam semalam (AI011). | AI008 → AI011 | Demonstrasi unjuk kemampuan mandiri. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
