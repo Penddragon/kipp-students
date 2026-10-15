@@ -1,0 +1,95 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+author: "Athaillah Akmalu Ramadhan (NIM: 18225105)"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Athaillah Akmalu Ramadhan |
+| NIM | 18225105 |
+| Kelas dan tanggal | K-1, 15 November 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin diri dan terus belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Fajar (K1-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap dari awal hingga akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Brief kasus berfokus pada pengembangan satu kemampuan target agar lebih berguna dalam kuliah, kerja, atau kehidupan, serta menguji kepemimpinan diri dalam menghadapi hambatan internal. Target utama adalah diri mahasiswa sendiri, sedangkan tokoh Fajar (K1-06) digunakan sebagai cermin pembanding untuk menyadari variasi karakter komunikasi orang lain. Indikator keberhasilan tindakan diukur secara kuantitatif melalui efisiensi alokasi waktu harian.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Dapat memimpin teman. **Weakness/Hambatan:** Malas diri. **Opportunity:** Masuk ke dalam himpunan. **Threat:** Ancaman tidak terduga. | U002 | Sementara (Laporan diri) |
+| Attitude | Percaya dan mau berkembang. | U002 | Sementara (Laporan diri) |
+| Knowledge | Sudah memahami garis besar mengenai kepemimpinan. | U002 | Sementara (Laporan diri) |
+| Skill | Mampu untuk memimpin. | U002 | Sementara (Laporan diri) |
+| Preferensi/MBTI | Tidak dilaporkan spesifik / tidak didiagnosis. | U002 | Laporan diri |
+| Karakter, peran, kultur | Mahasiswa aktif di lingkungan organisasi himpunan mahasiswa. | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Mengembangkan kemampuan kepemimpinan diri menghadapi malas. | Mengatasi malas dengan menyibukkan diri. | Membuat aturan ketat tanpa gawai dan tidur sebelum selesai. | Produktivitas draf program kerja selesai tepat waktu. |
+| **Attention** | Menarik perhatian diri dan Fajar pada urgensi penyelesaian tugas. | A: Menyadari konsekuensi penundaan. | Memberikan bukti nyata hasil kerja personal (kebut semalam). | Target mendengarkan fakta keberhasilan tugas. |
+| **Interest** | Mengarahkan ketertarikan pada metode praktis non-teoretis. | K: Memahami pentingnya komitmen minim distraksi. | Menawarkan alternatif metode membatasi hiburan di gawai. | Target merespons kebutuhan koordinasi lapangan. |
+| **Desire** | Menumbuhkan keinginan berkolaborasi secara terstruktur. | S: Menyusun langkah riil pelacakan progres. | Menawarkan sistem pelaporan visual via spreadsheet bersama. | Target meminta daftar pengingat operasional. |
+| **Action** | Menyepakati eksekusi komitmen harian dan monitoring silang. | S: Konsistensi pemantauan rutin. | Membuat 3 langkah checklist praktis dan komitmen setor besok malam. | Target menyatakan kesepakatan ("Deal"). |
+
+# C) Skrip Percakapan
+
+**U001:** 1. Kelas: K-1; 2. Tanggal Hari Ini: 15 November 2026; 3. Modalitas: Teks; 4. Kasus yang akan diangkat: Fiktif  
+**AI001:** Halo! Sesi 1 untuk Kasus 1 resmi dimulai... [Meminta kemampuan target, hambatan utama, dugaan SWOT/ASK]  
+**U002:** 1. Kepemimpinan; 2. Malas diri; 3. Strength: Dapat memimpin teman, Weakness: Malas diri, Oppurtunity: Masuk ke dalam himpunan, Threat: Ancaman tidak terduga. Attitude: Percaya dan mau, Knowledge: Sudah memahami garis besarnya, Skill: Mampu  
+**AI002:** Catatan awal direkam... [Meminta langkah konkret dan indikator keberhasilan]  
+**U003:** 1. Menyibukkan diri agar tidak memiliki waktu untuk bermalas-malasan; 2. Jika waktu layar (screentime) sudah berkurang 50% atau lebih  
+**AI003:** Rencana tindakan dicatat... [Memberikan skenario dinamis draf proker jam 20.00]  
+**U004:** Komitmen: Tidak akan tidur dan tidak akan menyentuh handphone untuk hiburan apapun sebelum draf program kerja selesai. Kalimat persis: "Kalau draf program kerja belum kelar, ga ada yang namanya main hp & tidur"  
+**AI004:** Pesan komitmen tercatat... [Memulai peran tokoh pembanding Fajar K1-06]  
+**AI005 (Fajar):** "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."  
+**U005:** Membuktikannya dengan menceritakan pengalaman yang baru dialami (Mengerjakan draf program kerja dalam satu malam) dan juga menunjukkan hasil draf program kerja yang sudah dikerjakan  
+**AI006 (Fajar):** "Bagus sih drafnya bisa selesai semalam. Tapi itu kan cara kamu yang sistemnya kebut semalam sampai gak tidur. Kalau buat saya yang kerja di lapangan, manfaat langsungnya apa kalau saya ikutan cara kamu? Ada checklist ringkasnya gak? Soalnya kalau harus dengerin teori atau cara yang bikin begadang terus, jujur saya gak cocok."  
+**U006:** "Kalo gitu pake caraku yang kedua, bikin komitmen diri untuk ngga nyentuh hp untuk hiburan apapun agar distraksi bisa diminimalisir"  
+**AI007 (Fajar):** "Bikin komitmen gak nyentuh HP sama sekali? Waduh, kalau di lapangan saya harus tetap stand by koordinasi lewat chat grup. Kalau langsung ekstrem dilarang total begitu, yang ada kerjaan lain malah bisa keteteran karena saya gak responsif. Ada alternatif langkah kecil yang lebih masuk akal dan aman buat situasi saya gak?"  
+**U007:** "Kalau yang kamu cari adalah menjadi konsisten dalam melatih kemampuan baru, jangan menunda-nundanya. Jika ada waktu luang, gunakan untuk melatih kemampuan itu. Tidak perlu lama, tapi lakukan secara rutin"  
+**AI008 (Fajar):** "Nah, kalau melatihnya sebentar tapi rutin pas ada waktu luang, itu masih masuk akal buat jadwal saya. Tapi masalahnya, saya sering lupa kalau gak ada pengingat atau langkah yang jelas. Bisa tolong bikinkan checklist 3 langkah praktis yang bisa saya ikuti tiap hari? Sama kalau boleh tahu, gimana caranya kita saling memantau biar saya gak balik malas lagi?"  
+**U008:** Lakukan ketiga langkah ini: 1. Buat spreadsheet atau dokumen untuk mencatat riwayat latihan kita berdua; 2. Setelah latihan, beri bukti berupa foto atau video, lalu masukkan ke dalam dokumen tersebut; 3. Setelahnya, kita berdua akan saling mengecek progres satu sama lain, dan jika ada yang terhambat, kita harus saling mengingatkan dan mengajak  
+**AI009 (Fajar):** "Oke, ini konkret banget! Pakai spreadsheet dan saling setor bukti foto atau video setelah latihan langsung di lapangan cocok sama gaya saya. Jadi gak cuma teori. Langkah pertamanya berarti kita buat dokumennya sekarang ya, terus kita sepakati mulai setor progres pertama besok malam setelah jam kegiatan himpunan selesai. Deal ya?"  
+**U009:** [Tahap Evaluasi] Attitude: Sangat berkemauan, Knowledge: Paham, Skill: Mampu menjalankan. Tidak ada revisi untuk cara berkomunikasi diri  
+**AI010:** [Pengungkapan Profil Tokoh K1-06 Fajar & Skenario Uji Ulang Kelelahan Minggu Kedua]  
+**U010:** "Aku engga akan melanggar komitmen yang aku buat sendiri. Aku udah berjuang selama 1 minggu terakhir, aku ga akan membuang semua progres itu cuma demi kenikmatan sementara"  
+**AI011:** [Mengajukan pertanyaan evaluasi netral mengenai rasa dipercaya/dipedulikan]  
+**U011:** Saat Fajar pertama kali meminta saran namun setelah diberi saran malah langsung ditolak, sempat muncul rasa tidak dipercaya karena ide yang diberikan ditolak mental-mentah. Namun setelah dia memberikan syarat yang lebih spesifik, akhirnya rasa tidak dipercaya itu hilang, karena sadar bahwa Fajar bersungguh-sungguh ingin berusaha dan tidak hanya meminta-minta. Setelah saran yang diberikan kepada Fajar telah diterima olehnya, akhirnya muncul rasa dipercaya dan juga dipedulikan.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan kepemimpinan diri tercapai sebagian melalui pembuktian komitmen internal yang rigid pada skenario awal dan uji ulang (U004, U010). Batas pembuktian adalah ranah teks simulasi; keberhasilan jangka panjang di dunia nyata tetap bergantung pada konsistensi eksekusi *screentime* di bawah 50% (U003).
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Lemah dalam konsistensi diri akibat hambatan malas (U002). | Mampu mempertahankan komitmen jangka pendek di tengah lelah (U010). | U002 → U010 | Laporan diri melalui justifikasi ketegasan teks. |
+| **Attitude** | Percaya dan mau mencoba metode disiplin (U002). | Teguh menjaga integritas janji diri tanpa kompromi sementara (U010). | U004, U010 | Komitmen verbal tertulis. |
+| **Knowledge** | Memahami garis besar konsep memimpin (U002). | Mengetahui risiko hilangnya akumulasi progres latihan jika kendor (U010). | U010 | Kesadaran kognitif dampak akumulatif. |
+| **Skill** | Mampu memimpin orang lain/teman (U002). | Mampu menyusun *checklist* operasional 3 langkah untuk memantau progres (U008). | U008 | Demonstrasi penyusunan prosedur kendali mutu kerja. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| **U005 - AI006** | Fajar bersikap defensif terhadap teori panjang/begadang. | Menunjukkan bukti draf proker hasil sistem kebut semalam. | Fajar menolak karena metode begadang tidak cocok untuknya. | *Knowledge* target menuntut kegunaan operasional riil. | Mahasiswa beralih menawarkan metode alternatif pengurangan gawai. |
