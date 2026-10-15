@@ -16,7 +16,7 @@ execute:
 |---|---|
 | Nama mahasiswa | Athaillah Akmalu Ramadhan |
 | NIM | 18225105 |
-| Kelas dan tanggal | K-1, 15 November 2026 |
+| Kelas dan tanggal | K-1, 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin diri dan terus belajar) |
 | Nama dan ID target | Diri mahasiswa; pembanding Fajar (K1-06) |
 | Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
@@ -52,7 +52,7 @@ Brief kasus berfokus pada pengembangan satu kemampuan target agar lebih berguna 
 
 # C) Skrip Percakapan
 
-**U001:** 1. Kelas: K-1; 2. Tanggal Hari Ini: 15 November 2026; 3. Modalitas: Teks; 4. Kasus yang akan diangkat: Fiktif  
+**U001:** 1. Kelas: K-1; 2. Tanggal Hari Ini: 15 Oktober 2026; 3. Modalitas: Teks; 4. Kasus yang akan diangkat: Fiktif  
 **AI001:** Halo! Sesi 1 untuk Kasus 1 resmi dimulai... [Meminta kemampuan target, hambatan utama, dugaan SWOT/ASK]  
 **U002:** 1. Kepemimpinan; 2. Malas diri; 3. Strength: Dapat memimpin teman, Weakness: Malas diri, Oppurtunity: Masuk ke dalam himpunan, Threat: Ancaman tidak terduga. Attitude: Percaya dan mau, Knowledge: Sudah memahami garis besarnya, Skill: Mampu  
 **AI002:** Catatan awal direkam... [Meminta langkah konkret dan indikator keberhasilan]  
