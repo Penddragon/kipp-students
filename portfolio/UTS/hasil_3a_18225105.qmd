@@ -1,0 +1,74 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+author: "Athaillah Akmalu Ramadhan (NIM: 18225105)"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Athaillah Akmalu Ramadhan |
+| NIM | 18225105 |
+| Kelas dan tanggal | K-1, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Elsa (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap dari awal hingga akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Brief kasus berfokus pada situasi pengelolaan usaha di mana pemilik usaha, Elsa (K3-05), kewalahan menangani pertanyaan pelanggan yang berulang dan pesanan yang sering tercecer akibat keterbatasan tenaga kerja. Target tindakan mahasiswa adalah menawarkan solusi otomatisasi TI/AI yang mampu meringankan beban kerja operasional, sekaligus meyakinkan Elsa bahwa sistem baru ini tetap mempertahankan nilai keramahan dan sentuhan personal layanan pelanggan sebagai ciri khas usahanya.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Penenang situasi krisis dan konsisten mendampingi. **Weakness:** Penawaran awal logistik (pelatihan gratis) kurang presisi. **Opportunity:** Mampu menyusun pembagian kerja hibrida (mesin-manusia). **Threat:** Stres emosional staf senior saat uji coba di jam sibuk. | U002, U008 | Sementara (Laporan diri) |
+| Attitude | Mengedepankan rasa aman pelanggan, kesinambungan bisnis, dan komitmen kehadiran fisik. | U002 | Sementara (Laporan diri) |
+| Knowledge | Memahami dasar alokasi beban kerja otomatisasi serta eskalasi pengawasan manual. | U002 | Sementara (Laporan diri) |
+| Skill | Mampu memberikan jaminan verbal penenang kendala operasional transisi sistem. | U008 | Sementara (Laporan diri) |
+| Preferensi/MBTI | Tidak didiagnosis / berdasarkan gaya komunikasi menenangkan-mendampingi. | U002 | Laporan diri |
+| Karakter, peran, kultur | Mahasiswa konsultan solusi TI yang berfokus pada mitigasi risiko psikologis pelanggan tradisional. | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+[Catat sebelum pengungkapan profil; untuk kasus 3 target utama adalah pelanggan fiktif Elsa. Pisahkan fakta, dugaan, dan pertanyaan validasi.]
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Elsa menerima uji coba implementasi sistem otomatisasi pesanan skala kecil. | Mengatasi ketakutan hilangnya sentuhan ramah manusia. | Menanyakan kabar pengelolaan usaha yang dijalankan Elsa. | Elsa langsung membuka kekhawatiran perubahan sistem. |
+| **Attention** | Menenangkan kecemasan awal target terhadap perubahan radikal. | A: Memvalidasi kebutuhan bertahap tanpa merombak total. | Mengajukan opsi pencarian solusi tanpa mengubah sistem dasar. | Elsa mempertanyakan cara meringankan pesanan tercecer. |
+| **Interest** | Mengarahkan target pada konsep hibrida pengawasan staf. | K: Menjelaskan pembagian peran supervisor manusia vs mesin. | Mengusulkan otomatisasi tugas rutin dengan retensi agen manusia. | Elsa mempertanyakan kejelasan mekanisme alur eskalasi. |
+| **Desire** | Menumbuhkan keinginan mencoba melalui skema pelatihan terarah. | S: Menyepakati pendampingan implementasi langsung di lapangan. | Menjelaskan peran supervisor penanggung jawab kendala data. | Elsa meminta jaminan pelatihan dan uji coba bertahap. |
+| **Action** | Mengeksekusi uji coba pendampingan langsung dan meredakan panik staf. | S: Menghadirkan jaminan fisik kehadiran konsultan di lokasi. | Menawarkan draf sistem sederhana disertai jaminan kehadiran besok. | Elsa menyepakati draf dan menentukan jadwal ("Deal"). |
+
+# C) Skrip Percakapan
+
+**U001:** K-1, 15 Oktober 2026, Teks, Fiktif  
+**AI001:** Selamat datang di Sesi 3a untuk Kasus 3... [Meminta analisis awal, tujuan, dugaan hambatan ASK, dan strategi]  
+**U002:** Tujuan: Membantuan atau menawarkan solusi untuk Elsa agar tidak terlalu kewalahan menangani pertanyaan berulang. Dugaan ASK awal: mau dan mampu, tapi tidak paham atau mengerti cara menangani pertanyaan berulang. Strategi awal: menanyakan bagaimana kabar usaha yang ia kelola  
+**AI002:** Analisis awal direkam... [Memulai skenario simulasi keluhan pelanggan]  
+**AI005 (Elsa):** "Saya khawatir orang lain justru kesulitan kalau kita mengubah ini."  
+**U003:** kalau begitu, kita bisa mencari solusi yang tidak memerlukan kita untuk mengubah ini  
+**AI006 (Elsa):** "Maksudnya bagaimana ya? Kalau tidak mengubah sistem yang sekarang, pesanan-pesanan pelanggan kami yang sering tercecer ini akan tetap sulit tertangani, dan tenaga kami juga terbatas sekali untuk membalas pertanyaan yang itu-itu saja setiap hari. Tapi kalau harus pakai sistem otomatisasi atau AI yang canggih, saya takut sentuhan personal dan pelayanan ramah yang selama ini jadi ciri khas usaha kami malah hilang dan bikin pelanggan tidak nyaman. Memangnya ada solusi yang tetap mempertahankan cara kerja kami tapi bisa meringankan beban operasional?"  
+**U004:** jika kekhawatiranmu adalah kehilangan sentuhan personal, kita bisa tetap mempekerjakan personel untuk bagian yang berinteraksi dengan pelanggan. Untuk pekerjaan berulang atau penerimaan pesanan, bisa kita serahkan kepada mesin/AI. Dengan begitu, kita akan tetap memiliki kesan pelayanan ramah, tetapi dengan lebih sedikit workload karena sebagian pekerjaan sudah diotomatisasi oleh mesin/AI  
+**AI007 (Elsa):** "Mendengar kalau layanan manusia tetap dipertahankan untuk interaksi langsung membuat saya sedikit lebih tenang. Tapi jujur saja, saya masih belum kebayang bagaimana pembagian kerjanya di lapangan. Ketika mesin atau AI menerima pesanan pelanggan secara otomatis, bagaimana caranya staf saya tahu kalau ada pesanan yang masuk atau butuh penanganan khusus jika terjadi masalah? Saya khawatir proses transisi dari mesin ke petugas kami di belakang layar malah jadi membingungkan bagi staf yang terbiasa dengan cara manual."  
+**U005:** tentunya, kita tidak akan sepenuhnya menyerahkan pekerjaan teknis kepada mesin/AI. Kita akan menempatkan beberapa personel/orang untuk menjadi supervisor/pengawas yang akan mengawasi pekerjaan AI tersebut. Jadi, jika terjadi masalah, kita bisa langsung mengetahuinya dan dapat menyelesaikannya secepatnya  
+**AI008 (Elsa):** "Oh, jadi sistemnya seperti itu ya? Ada staf kami yang bertindak sebagai supervisor untuk mengawasi dan langsung mengambil alih kalau ada kendala pada sistem otomatisnya. Itu masuk akal dan membuat saya merasa lebih aman untuk mencobanya. Tapi, karena staf kami sama sekali belum pernah menyentuh sistem TI atau AI seperti ini, saya khawatir mereka akan kesulitan dan bingung di awal. Apakah ada program pelatihan atau pendampingan langsung untuk kami selama masa transisi ini? Dan bagaimana kita bisa menguji sistem ini dalam skala kecil dulu tanpa mengganggu layanan pelanggan yang sudah berjalan?"  
+**U006:** terdapat beberapa pelatihan gratis yang tersedia di internet. Jika kalian mau, aku dapat mencarikannya untukmu agar kamu bisa memberikan dan mengajarkannya kepada staf-stafmu. Kita juga tidak perlu langsung merombak secara total, kita bisa melakukannya secara bertahap. Kita bisa memulai pada 1 pekerjaan untuk AI untuk pertama kalinya. Jika staf sudah paham dan terbiasa, kita bisa memperluas cakupan pekerjaan AI agar beban pekerjaan para staf tidak terlalu berlebih  
+**AI009 (Elsa):** "Kalau solusinya bertahap mulai dari satu pekerjaan dulu dan ada pelatihan, saya sangat tertarik untuk mencoba. Tapi kalau staf saya diminta belajar mandiri lewat video internet gratisan tanpa didampingi, saya khawatir mereka kesulitan bertanya kalau bingung di tengah jalan. Bagaimana kalau langkah pertamanya kamu yang bantu buatkan satu sistem otomatisasi sederhana untuk pesanan tercecer itu, lalu kamu dampingi staf saya langsung saat uji coba besok? Kalau kamu bersedia mendampingi langsung, kita deal untuk mulai besok."  
+**U007:** Elsa yang pada awalnya sangat enggan menggunakan AI karena takut sentuhan personal yang menjadi ciri khas perusahaannya akan menghilang, setelah diberikan saran dan sedikit persuasi, kini menjadi lebih terbuka terhadap AI. Elsa menjadi lebih paham mengenai kegunaan mesin/AI. Tidak ada revisi diri.  
+**AI010:** [Pengungkapan Profil Tokoh K3-05 Elsa & Pemicu Kendala Baru Staf Senior Menangis Bingung Tombol Verifikasi]  
+**AI011 (Elsa):** "Aduh, maaf ya, staf senior saya sampai tertekan seperti ini karena belum terbiasa dengan sistem baru. Saya jadi panik dan kepikiran untuk kembali ke cara manual saja dulu hari ini supaya pesanan pelanggan tidak berantakan di jam sibuk ini. Bagaimana ini? Apa ada langkah penyelamatan darurat yang cepat tanpa membuat staf saya makin stres?"  
+**U008:** menurutku, kita tidak perlu langsung kembali ke cara manual, anggap saja ini sebagai salah satu proses yang diperlukan untuk bertransisi. Kamu tidak perlu panik, aku ada disini untuk mengawasi juga untuk membimbing kalian jika-jika terjadi kejadian seperti ini  
+**AI012 (Elsa):** "Mendengar kamu tenang dan menegaskan kalau kamu ada di sini untuk membimbing kami membuat saya merasa jauh lebih tenang, terima kasih banyak. Staf senior saya juga sepertinya mulai reda paniknya setelah tahu kita tidak dibiarkan sendirian menghadapi eror ini. Baiklah, kalau begitu mohon bantuannya untuk menuntun staf saya pelan-pelan ya pada bagian tombol verifikasi tadi, biar kami bisa melanjutkan uji cobanya dengan rasa aman."  
