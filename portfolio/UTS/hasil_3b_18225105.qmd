@@ -1,0 +1,84 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+author: "Athaillah Akmalu Ramadhan (NIM: 18225105)"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Athaillah Akmalu Ramadhan |
+| NIM | 18225105 |
+| Kelas dan tanggal | K-1, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap dari awal hingga akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Brief kasus berfokus pada situasi pengelolaan usaha di mana pemilik usaha, Fajar (K3-06), kewalahan menangani pertanyaan pelanggan yang menumpuk secara berulang dan mengakibatkan pesanan lapangan sering kali tercecer karena keterbatasan tenaga. Target tindakan mahasiswa selaku konsultan TI adalah menawarkan solusi otomatisasi pesanan yang praktis, ringkas, dan minim birokrasi teoretis, serta melengkapinya dengan sistem cadangan (*fallback*) darurat yang menjamin kelancaran operasional harian.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Tangkas menyusun instruksi logis-pendek. **Weakness:** Menggunakan sapaan kasual di awal konflik bisnis. **Opportunity:** Mampu merumuskan arsitektur mitigasi krisis operasional cepat. **Threat:** Lonjakan *traffic* data yang memicu kelambatan sistem otomatis. | U002, U008 | Sementara (Laporan diri) |
+| Attitude | Berorientasi pada efisiensi waktu, kepraktisan eksekusi, dan kejelasan tanggung jawab lapangan. | U002 | Sementara (Laporan diri) |
+| Knowledge | Menguasai pemetaan alur pemecahan masalah teknis (validasi format data dan *restart* sistem). | U008 | Sementara (Laporan diri) |
+| Skill | Mampu merumuskan *checklist* prosedur darurat terstruktur dalam poin-poin fragmentaris. | U006 | Sementara (Laporan diri) |
+| Preferensi/MBTI | Tidak didiagnosis / berdasarkan gaya komunikasi direktif-operasional. | U002 | Laporan diri |
+| Karakter, peran, kultur | Mahasiswa konsultan sistem informasi yang dituntut memberikan solusi taktis instan untuk pelaksana lapangan. | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+[Catat sebelum pengungkapan profil; untuk kasus 3 target utama adalah pelanggan fiktif Fajar. Pisahkan fakta, dugaan, dan pertanyaan validasi.]
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Fajar (K3-06) menyepakati draf uji coba otomatisasi pesanan skala kecil. | Meringankan beban operasional lapangan yang keteteran. | Memastikan status kondisi pengelolaan usaha Fajar secara personal. | Fajar menuntut pembuktian manfaat instan tanpa teori. |
+| **Attention** | Menangkap perhatian target dengan memotong birokrasi penjelasan. | A: Memvalidasi penolakan target terhadap beban kerja baru. | Menanyakan ketersediaan ruang keluhan beban kerja Fajar. | Fajar membeberkan tumpukan pesan berulang dan pesanan tercecer. |
+| **Interest** | Mengarahkan target pada pengalihan tugas teknis repetitif. | K: Menjelaskan pendelegasian tugas rutin ke mesin otomatis. | Mengusulkan pendelegasian porsi penerimaan pesanan ke sistem AI. | Fajar mempertimbangkan manfaat namun mempertanyakan risiko eror. |
+| **Desire** | Membangun keinginan mencoba melalui penyediaan skema kendali darurat. | S: Menyusun *checklist* 3 langkah darurat penanganan operasional. | Menawarkan pembuatan demo sistem terpandu berskema supervisor. | Fajar meminta rumusan tertulis prosedur penanganan darurat macet. |
+| **Action** | Mengeksekusi uji coba operasional dan memitigasi kendala kelambatan data. | S: Menyediakan instruksi kilat pembersihan data dan pemulihan sistem. | Menyajikan 3 langkah checklist penanganan gangguan operasional. | Fajar menyetujui komitmen eksekusi demo besok siang ("Deal"). |
+
+# C) Skrip Percakapan
+
+**U001:** K-1, 15 Oktober 2026, Teks, Fiktif  
+**AI001:** Selamat datang di Sesi 3b untuk Kasus 3... [Meminta analisis awal, tujuan, dugaan hambatan ASK, dan strategi]  
+**U002:** Tujuan: membantu Fajar untuk meringankan beban kerjanya. Dugaan ASK awal: Fajar mau dan paham, namun tidak mampu karena keteteran. Rencana: memastikan apakah semuanya baik-baik saja  
+**AI002:** Analisis awal direkam... [Memulai skenario simulasi keluhan pelanggan]  
+**AI005 (Fajar):** "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."  
+**U003:** kalau begitu, kita bisa mencari solusi yang tidak memerlukan kita untuk mengubah ini  
+**AI006 (Fajar):** "Began saya ya itu tadi, pesan pelanggan numpuk pertanyaannya itu-itu saja tiap hari, sampai pesanan banyak yang tercecer karena tenaga lapangan kami terbatas. Jujur, saya gak butuh saran teoretis atau penjelasan sistem yang panjang lebar. Kalau kamu punya alat TI atau AI yang bisa langsung beresin masalah pesanan tercecer ini tanpa bikin ribet atau nambah beban kerjaan baru buat staf saya, tolong langsung tunjukkan cara kerjanya sekarang."  
+**U004:** usahamu bisa mulai mempekerjaan mesin atau AI untuk pekerjaan teknis yang repetitif seperti menerima pesanan pelanggan. Dengan begitu, staf-stafmu dapat mengerjakan tugas lain  
+**AI007 (Fajar):** "Mendelegasikan pesanan ke AI biar staf lapangan saya bisa fokus ke tugas lain memang kedengarannya bagus. Tapi yang saya butuhkan sekarang itu bukan penjelasan konsepnya, melainkan bagaimana risiko kesalahan otomatisasinya? Kalau mesinnya salah catat pesanan pelanggan atau eror di jam sibuk, staf saya yang di lapangan kan gak tahu apa-apa dan malah bisa makin keteteran kalau komplain menumpuk. Ada demo singkat atau contoh nyata bagaimana staf saya bisa memantau dan langsung ambil alih kalau sistemnya eror?"  
+**U005:** jika itu kekhawatiranmu kamu dapat menempatkan beberapa staf untuk bertugas sebagai supervisor atau pengawas kerja mesin/AI tersebut, agar mereka bisa mengambil alih jika-jika terjadi masalah tak terduga. Aku bisa membuatkan demo-nya jika kamu tidak ingin langsung menerapkannya secara langsung, agar stafmu dapat terbiasa dengan suasana kerja baru bersama mesin/AI  
+**AI008 (Fajar):** "Nah, kalau ada demo sistemnya dulu buat uji coba dan ada staf yang bertindak sebagai supervisor pengawas, itu baru masuk akal buat saya. Jadi risiko salah catat bisa langsung dipotong di lapangan. Oke, saya tertarik. Tolong buatkan draf demo singkatnya sekarang, dan tolong berikan checklist 3 langkah darurat yang harus dilakukan staf saya kalau sistem otomatis itu mendadak macet di jam sibuk operasional. Kalau itu jelas, kita bisa langsung sepakati waktu buat uji coba skala kecil."  
+**U006:** 1. mematikan AI agar berhenti bekerja terlebih dahulu; 2. mengambil alih pekerjaan sementara, lalu memperbaiki kesalahan jika sudah terdapat kesalahan mencatat; 3. mencari tau dan memperbaiki masalah yang menyebabkan kesalahan tersebut  
+**AI009 (Fajar):** "Bagus, 3 langkah daruratnya ringkas dan aman buat operasional lapangan. Matikan sistem, ambil alih manual, baru cari tahu masalahnya jadi gak bakal bikin pesanan tertahan lama di jam sibuk. Saya sepakat dengan skema ini. Langkah pertamanya, tolong siapkan draf demo sistem otomatisasi pesanan itu sekarang ya, biar besok siang langsung kita uji coba skala kecil bareng staf lapangan saya. Deal ya?"  
+**U007:** dugaan: Fajar sudah mau, mampu, dan cukup paham. Hanya butuh sedikit dorongan dan saran yang spesifik namun ringkas. tidak ada revisi diri.  
+**AI010:** [Pengungkapan Profil Tokoh K3-06 Fajar & Pemicu Kendala Baru Uji Ulang Sistem Delay Lonjakan Traffic]  
+**AI011 (Fajar):** "Bro, sistemnya mendadak delay dan pesan pelanggan mulai menumpuk di layar! Staf saya sudah mau matikan sistemnya sekarang sesuai checklist kemarin biar diganti manual total. Tapi kalau diganti manual semua saat jam sibuk begini, tenaga kami jelas gak bakal mengejar dan pesanan bisa makin banyak tercecer. Ada solusi kilat gak buat menstabilkan sistemnya tanpa harus matikan total operasional otomatisnya?"  
+**U008:** pertama, coba cek pesanan pelanggan yang telah diinput. Bisa jadi, terdapat pesanan yang tidak sesuai format atau tidak valid di sana, yang menyebabkan terjadinya delay atau lambatnya pesanan terbaca. kedua, jika tidak ditemukan masalahnya lewat cara pertama, pastikan semua data pesanan pelanggan telah tersimpan, lalu lakukan restart pada Ai. Bisa jadi, AI hanya mengalami overload/kelebihan muatan yang menyebabkannya tidak bisa menerima pesanan dengan efisien  
+**AI012 (Fajar):** "Oke, masuk akal! Langkah pertama langsung saya suruh staf cek pesanan tidak valid di baris atas. Sambil jalan, kalau masih macet langsung kita amankan data dan restart sistemnya biar segar lagi. Cara ini jauh lebih cepat daripada harus matikan total operasional dan ganti manual. Tolong bantu pantau proses restart-nya ya, Bro, biar gak ada data yang hilang. Mantap, gerak cepat kamu pas di jam sibuk begini sangat membantu!"  
+**U009:** melalui respon yang diberikan Fajar, Fajar menaruh banyak kepercayaan padaku. Ia mengandalkanku untuk menjadi pengawas para stafnya agar proses mengawasi AI dan merestart AI terjadi dengan lancar tanpa adanya masalah terjadi.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan membantu meringankan beban operasional Fajar melalui otomatisasi taktis tercapai sepenuhnya. Sistem berhasil dipertahankan efisiensinya saat krisis *delay* puncak melalui instruksi mitigasi kilat (U008). Batas pembuktian terbatas pada konfirmasi respons simulasi percakapan tertulis.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
