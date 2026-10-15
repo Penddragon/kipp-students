@@ -1,0 +1,91 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
+author: "Athaillah Akmalu Ramadhan (NIM: 18225105)"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Athaillah Akmalu Ramadhan |
+| NIM | 18225105 |
+| Kelas dan tanggal | K-1, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan profesionalitas) |
+| Nama dan ID target | Fajar (K2-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap dari awal hingga akhir sesi |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Brief kasus berfokus pada situasi kelompok kuliah di mana tenggat waktu pengumpulan tugas menyisakan waktu 48 jam lagi. Rekan dekat kelompok, Fajar (K2-06), belum mengumpulkan bagian tugasnya karena merasa pembagian beban tugas tidak adil. Target tindakan mahasiswa adalah memastikan Fajar merasa pembagian tugas adil sehingga ia termotivasi menyelesaikan bagiannya, sekaligus menjaga jalinan persahabatan tetap baik tanpa mengorbankan profesionalitas kerja kelompok.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Responsif terhadap konflik terbuka. **Weakness:** Rencana awal cenderung drastis. **Opportunity:** Mampu melakukan penyesuaian peran. **Threat:** Kendala teknis mendadak. | U002, U003 | Sementara (Laporan diri) |
+| Attitude | Mengutamakan penyelesaian masalah dan menjaga persahabatan. | U002 | Sementara (Laporan diri) |
+| Knowledge | Memahami beban kerja kelompok dan status draf tugas rekan. | U002 | Sementara (Laporan diri) |
+| Skill | Mampu menawarkan solusi alternatif pertukaran peran operasional. | U002 | Sementara (Laporan diri) |
+| Preferensi/MBTI | Tidak didiagnosis / berdasarkan preferensi adaptif lisan. | U002 | Hipotesis mandiri |
+| Karakter, peran, kultur | Mahasiswa penanggung jawab kelompok kuliah yang berhadapan dengan rekan pelaksana lapangan. | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| **Target** | Fajar (K2-06) menerima pembagian tugas baru dengan adil. | Menurunkan defensivitas konflik beban kerja lapangan. | Menanyakan masalah internal yang dihadapi Fajar. | Fajar membuka keluhannya secara jujur dan blak-blakan. |
+| **Attention** | Menarik perhatian Fajar pada keadilan beban tugas kelompok. | A: Memvalidasi keberatan waktu dan tenaga Fajar. | Menanyakan secara langsung persepsi ketidakadilan Fajar. | Fajar menjelaskan detail hambatan jadwal padatnya. |
+| **Interest** | Mengarahkan Fajar pada opsi pertukaran tugas yang fleksibel. | K: Menawarkan opsi tukar peran operasional. | Memberikan tawaran tukar tugas total sebagai opsi pembuka. | Fajar mempertimbangkan risiko keteteran tenggat waktu. |
+| **Desire** | Menumbuhkan keinginan berkolaborasi praktis tanpa rapat panjang. | S: Menyepakati kolaborasi parsial perbaikan draf data. | Mengajak kerja sama saling bantu merapikan draf kasar. | Fajar meminta kejelasan operasional yang ringkas. |
+| **Action** | Menyepakati komitmen penyelesaian draf bersama dalam 24 jam. | S: Pembagian instruksi kerja luring/ringkas. | Memberikan *checklist* perbaikan data dan draf ringkas teori. | Fajar menyepakati komitmen operasional ("Deal"). |
+
+# C) Skrip Percakapan
+
+**U001:** K-1, 15 Oktober 2026, Teks, Fiktif  
+**AI001:** Selamat datang di Sesi 2a untuk Kasus 2... [Meminta analisis awal, tujuan, dugaan hambatan ASK, dan strategi]  
+**U002:** Target: Fajar merasa pembagian tugas sudah adil dan ingin mengerjakan bagian tugasnya. ASK: Fajar memahami tugas namun tidak ada kemauan untuk mengerjakan karena merasa tidak adil dengan pembagian tugasnya. Fajar juga mungkin merasa tidak mampu mengerjakan tugasnya karena memiliki jadwal yang padat dan tak memiliki waktu untuk mengerjakan bagiannya. Strategi: Menanyakan apakah terdapat masalah yang ia alami belakangan ini?  
+**AI002:** Analisis awal direkam... [Memulai skenario simulasi tenggat 48 jam]  
+**AI005 (Fajar):** "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."  
+**U003:** "Kenapa kamu merasa kalau pembagian tugasnya tidak adil?"  
+**AI006 (Fajar):** "Lah, kok langsung nembak ke sana? Tapi ya sudahlah, mumpung kamu tanya, saya blak-blakan saja. Saya kebagian bagian analisis lapangan yang harus survei data, padahal kalian tahu sendiri jadwal saya padat banget minggu ini buat koordinasi kegiatan. Sementara yang lain cuma kebagian merangkum teori di laptop. Jelas gak adil dari segi alokasi waktu dan tenaga buat saya!"  
+**U004:** Yaudah, gimana kalau kita bertukar bagian tugas aja?  
+**AI007 (Fajar):** "Serius kamu mau tukaran? Tapi masalahnya, draf analisis lapangan yang telanjur saya mulai itu berantakan dan datanya belum lengkap. Kalau kita langsung tukaran total sekarang dengan sisa waktu 48 jam, saya takut kamu malah keteteran beresin sisanya, dan saya juga belum paham betul format rangkuman teori yang sudah kalian sepakati di rapat panjang kemarin. Ada solusi yang lebih aman gak biar kerjaan jalan tapi gak bikin kita berdua malah makin pusing?"  
+**U005:** Kalau gitu, gimana kalo kita saling bantu sama lain biar ga ada kebingungan dan beban tugasnya tidak terlalu berat sepihak?  
+**AI008 (Fajar):** "Saling bantu gimana maksudnya? Kalau cuma omongan 'saling bantu' yang abstrak, saya takutnya malah buang waktu lagi buat diskusi. Bisa langsung ditunjukkan langkah konkretnya? Misalnya, bagian mana dari data lapangan saya yang mau kamu ambil alih, dan bantuan apa yang bisa saya dapat buat paham format teori dalam waktu singkat? Tolong buat ringkas ya, biar bisa langsung saya eksekusi."  
+**U006:** Kamu rapiin dan lengkapin dulu data yang masih berantakan dan belum lengkap, biar aku bisa lebih mudah mencari dan memasukkan datanya. Untuk format teori, aku bisa buat rangkuman singkat untuk itu. Gimana?  
+**AI009 (Fajar):** "Oke, kalau pembagiannya sejelas ini saya sepakat. Saya akan rapikan data lapangan yang sudah ada sebisa saya malam ini, lalu langsung saya kirim ke kamu biar kamu yang lengkapi kekurangannya. Saya tunggu rangkuman singkat format teorinya ya, biar saya bisa langsung kebut bagian saya tanpa perlu ikut rapat panjang lagi. Jadi, deal ya kita selesaikan ini dalam 24 jam ke depan?"  
+**U007:** ASK Fajar: Berkemauan untuk bertukar tugas, namun belum memiliki pemahaman untuk bertukar total, namun sepertinya cukup mampu. Tidak ada revisi diri.  
+**AI010:** [Pengungkapan Profil Tokoh K2-06 Fajar & Pemicu Kendala Baru Uji Ulang Jaringan Internet Mati]  
+**AI011 (Fajar):** "Bro, data lapangan yang berantakan kemarin sudah saya rapikan sebisa saya dan sudah saya unggah ke folder bersama. Tapi pas saya mau mulai pelajari rangkuman format teori yang kamu kirim, ternyata internet di tempat kegiatan saya mati total dan saya gak bisa akses dokumen daringnya. Di sisi lain, saya harus segera bergerak ke lokasi lapangan berikutnya dalam 30 menit ke depan. Ada cara lain gak biar saya tetap bisa paham formatnya secara luring atau cepat tanpa harus nunggu internet nyala lagi? Soalnya waktu saya terbatas banget."  
+**U008:** Aku bisa download dokumen daringnya ke dalam bentuk pdf agar bisa diakses kapanpun, tapi apakah kamu ada internet yang cukup untuk mendownload file pdf-nya nanti?  
+**AI012 (Fajar):** "Kalau cuma buat download satu file PDF ukuran kecil sih kuota data di HP saya masih aman dan cukup banget. Yang penting filenya ringan dan bisa saya baca secara luring di jalan. Tolong langsung dikirim format PDF-nya ke WhatsApp saya sekarang ya, biar bisa langsung saya amankan sebelum berangkat ke lokasi berikutnya. Makasih banyak ya, Bro, sudah gerak cepat bantu!"  
+**U009:** saat menyarankan bertukar tugas pada Fajar, Fajar menunjukkan rasa kepedulian karena khawatir jika bertukar total akan menyebabkan kebingungan. Hal ini menyebabkan saya merasa dipedulikan.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan akhir komitmen profesional dan penjagaan persahabatan tercapai sepenuhnya. Beban kerja berhasil diselaraskan kembali secara adil melalui kolaborasi parsial (U006) dan kendala luring di lapangan berhasil diatasi (U008). Batas inferensi adalah keberhasilan dalam simulasi ruang obrolan tertulis.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| **Kesimpulan SWOT** | Khawatir akan kemacetan progres karena Fajar merasa tidak diperlakukan adil (U002). | Mampu mengubah hambatan operasional menjadi kolaborasi taktis yang saling menguntungkan (U006, U008). | U002 → U006, U008 | Bukti simulasi tindakan terarah. |
+| **Attitude** | Menduga Fajar menolak tugas karena malas atau sekadar mengeluh jadwal padat (U002). | Memahami bahwa resistensi Fajar bersumber pada transparansi beban kerja nyata dan keterbatasan waktu (U009). | U002 → U009 | Refleksi relasional personal mahasiswa. |
+| **Knowledge** | Kurang mengantisipasi kendala teknis luring di lapangan (U002). | Menyadari pentingnya menyediakan materi panduan format dalam bentuk berkas luring (PDF ringan) (U008). | U008 | Pengetahuan adaptasi instan. |
+| **Skill** | Membuka konflik dengan langsung menanyakan ketidakadilan secara frontal (U003). | Mampu mengeksekusi pembagian kerja taktis operasional berdasarkan keahlian masing-masing (U006). | U003 → U006 | Demonstrasi variasi repertoar pesan. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
